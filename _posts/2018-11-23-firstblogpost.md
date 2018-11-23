@@ -1,4 +1,7 @@
-## A Whole New "HELLO  WORLD"
+---
+"A Whole New "HELLO  WORLD""
+2018-11-23
+---
 
 Sometimes just getting to the start line is half the journey done.  I wouldn't say this journey is as easy, but certainly easier once I made the decision to take a side step from Yoga in to coding.
 
